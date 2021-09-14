@@ -1,0 +1,2 @@
+(this["webpackJsonphello-world"]=this["webpackJsonphello-world"]||[]).push([[53],{413:function(n,t,e){"use strict";e.r(t),e.d(t,"startStatusTap",(function(){return r}));var o=e(29),i=e(27),r=function(){var n=window;n.addEventListener("statusTap",(function(){Object(o.h)((function(){var t=n.innerWidth,e=n.innerHeight,r=document.elementFromPoint(t/2,e/2);if(r){var c=r.closest("ion-content");c&&new Promise((function(n){return Object(i.c)(c,n)})).then((function(){Object(o.f)((function(){return c.scrollToTop(300)}))}))}}))}))}}}]);
+//# sourceMappingURL=53.9153653b.chunk.js.map
